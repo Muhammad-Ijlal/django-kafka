@@ -1,7 +1,8 @@
 # Event Driven Cloud Kitchen Demo App using Kafka (WIP)
 This is a basic demo project for a cloud kitchen order management. It is based on the event driven architecture with 3 microservices developed using Python Django.
 
-https://github.com/conduktor/kafka-stack-docker-compose/tree/master
+The setup involves running dockerized kafka along with dockerized conduktor (GUI tool for kafka).
+Reference: https://github.com/conduktor/kafka-stack-docker-compose/tree/master
 
 ## Tidbits
 ### Kafka topic naming convention:
